@@ -1,4 +1,4 @@
-class AI
+class anyname
 {
     public static void main(int n)
     {
